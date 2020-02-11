@@ -1,0 +1,19 @@
+{
+  "title": "Python中正则表达式：re模块详解",
+  "description": "整理Python中正则表达式re模块，解释常见正则函数的含义，以及给出详细的例子详尽阐述具体如何使用",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "python_regex_re_intro"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/python_regex_re_intro/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/python_regex_re_intro/pdf/python_regex_re_intro.pdf"
+    }
+  }
+}
