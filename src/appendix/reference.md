@@ -33,4 +33,6 @@
 * [正则表达式：零宽断言(lookaround) - 许炎的个人博客](https://blog.staynoob.cn/post/2017/01/regular-expression-lookahead-lookbehind/)
 * [正则表达式中 Lookaround - 知乎](https://zhuanlan.zhihu.com/p/50789818)
 * [3分钟内理解Python的re模块中match、search、findall、finditer的区别_python,match,search_不若乘风来-CSDN博客](https://blog.csdn.net/tp7309/article/details/72823258)
+* [【已解决】Python中用正则re去搜索分组的集合](http://www.crifan.com/python_use_re_regex_to_search_group_collection)
+* 【已解决】用Python的正则re去匹配特定模式的成语
 * 

@@ -12,6 +12,8 @@
 * [re.findall](re_findall/README.md)
 * [re.finditer](re_finditer/README.md)
 * [re应用举例](re_examples/README.md)
+  * [re.search实例](re_examples/re_search.md)
+  * [re.finditer实例](re_examples/re_finditer.md)
 * [re学习心得](learn_re_summary/README.md)
 * [附录](appendix/README.md)
   * [参考资料](appendix/reference.md)
