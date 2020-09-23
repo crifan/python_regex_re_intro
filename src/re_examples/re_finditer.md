@@ -4,7 +4,7 @@
 
 输入字符串：
 
-```text
+```
 Place: School canteen
 Topic: food
 Tittle:Have lunch
