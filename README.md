@@ -1,11 +1,11 @@
 # Python中正则表达式：re模块详解
 
-* 最新版本：`v1.2`
-* 更新时间：`20200923`
+* 最新版本：`v1.3`
+* 更新时间：`20201212`
 
 ## 简介
 
-整理Python中正则表达式re模块，解释常见正则函数的含义、语法，以及给出详细的例子详尽阐述具体如何使用。常见正则函数包括re.search、re.sub、re.match、re.findall、re.finditer等，最后总结出相关心得。
+整理Python中正则表达式re模块，解释常见正则函数的含义、语法，以及给出详细的例子详尽阐述具体如何使用。常见正则函数包括re.search、re.sub、re.match、re.findall、re.finditer等，最后总结出相关心得。以及详细对比re.search、re.findall、re.finditer的详细用法和区别。
 
 ## 源码+浏览+下载
 
