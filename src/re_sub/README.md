@@ -1,5 +1,15 @@
 # re.sub
 
+## 概述
+
+* re.sub
+  * 语法
+    ```bash
+    re.sub(pattern, repl, string, count=0, flags=0)
+    ```
+
+## 文档
+
 官网文档：
 
 * 英文

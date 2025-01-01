@@ -35,4 +35,9 @@
 * [3分钟内理解Python的re模块中match、search、findall、finditer的区别_python,match,search_不若乘风来-CSDN博客](https://blog.csdn.net/tp7309/article/details/72823258)
 * [【已解决】Python中用正则re去搜索分组的集合](http://www.crifan.com/python_use_re_regex_to_search_group_collection)
 * 【已解决】用Python的正则re去匹配特定模式的成语
+* 【已解决】Python中用re.sub实现替换且保留原字符串中named group命名的组的部分值
+* 【已解决】Python中用正则re.match报错：发生异常 error multiple repeat at position
+* [python中的正则表达式中的 "|"_百度知道](https://zhidao.baidu.com/question/1738729970599497667.html)
+* 【记录】测试requests是否支持短链解析长链以及速度如何
+* [re --- 正则表达式操作 — Python 3.9.1 文档](https://docs.python.org/zh-cn/3.9/library/re.html)
 * 
