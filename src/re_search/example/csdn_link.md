@@ -1,6 +1,4 @@
-# re.search实例
-
-## 提取csdn帖子地址
+# 提取csdn帖子地址
 
 ```python
 foundLastListPageUrl = re.search('<a\s+?href="(?P<lastListPageUrl>/\w+?/article/list/\d+)">尾页</a>', homeRespHtml, re.I)

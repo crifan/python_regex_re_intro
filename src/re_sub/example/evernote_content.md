@@ -1,8 +1,6 @@
-# re.sub实例
+# Evernote的content处理
 
-## Evernote的content处理
-
-### 去掉最开始的xml头
+## 去掉最开始的xml头
 
 处理前：
 
@@ -22,7 +20,7 @@ re.sub('<\?xml version="1.0" encoding="UTF-8" standalone="no"\?>\s*', "", noteHt
 <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">\n<en-note>xxx
 ```
 
-### 去掉开始的en-note头
+## 去掉开始的en-note头
 
 处理前：
 
@@ -59,7 +57,7 @@ xxx
 * `((")|('))`：用于匹配双引号`"`或`'`都支持
 * `\s*`：用于匹配最后的`\n`
 
-### 处理en-meida的tag
+## 处理en-meida的tag
 
 处理前：
 
@@ -79,7 +77,7 @@ re.sub("(?P<enMedia><en-media\s+[^<>]+)>\s*</en-media>", "\g<enMedia> />", noteH
 <en-media hash="7c54d8d29cccfcfe2b48dd9f952b715b" type="image/png" />
 ```
 
-### 替换最顶层tag
+## 替换最顶层tag
 
 处理前：
 

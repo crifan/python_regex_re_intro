@@ -1,6 +1,6 @@
 {
-  "latestVersion": "v1.3",
-  "lastUpdate": "20201212",
+  "latestVersion": "v1.4.0",
+  "lastUpdate": "20250101",
   "gitRepoName": "python_regex_re_intro",
   "bookName": "Python中正则表达式：re模块详解",
   "bookDescription": "整理Python中正则表达式re模块，解释常见正则函数的含义、语法，以及给出详细的例子详尽阐述具体如何使用。常见正则函数包括re.search、re.sub、re.match、re.findall、re.finditer等，最后总结出相关心得。以及详细对比re.search、re.findall、re.finditer的详细用法和区别。"

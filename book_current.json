@@ -10,10 +10,10 @@
       ]
     },
     "sitemap-general": {
-      "prefix": "https://book.crifan.com/gitbook/python_regex_re_intro/website/"
+      "prefix": "https://book.crifan.org/books/python_regex_re_intro/website/"
     },
     "toolbar-button": {
-      "url": "http://book.crifan.com/books/python_regex_re_intro/pdf/python_regex_re_intro.pdf"
+      "url": "https://book.crifan.org/books/python_regex_re_intro/pdf/python_regex_re_intro.pdf"
     }
   }
 }
